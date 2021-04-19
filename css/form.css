@@ -1,0 +1,19 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+ .required{
+    color:red;
+}
+
+.widthText67{
+   width: 67%;
+}
+
+.widthText70{
+   width:70% !important;
+}
+
+label {
+   font-weight:600;
+   color: rgb(102, 102, 102);
+}
